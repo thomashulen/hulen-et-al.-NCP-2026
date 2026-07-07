@@ -1,0 +1,11 @@
+Raw RNA-sequencing data analyzed in this study are publicly available from the NCBI Sequence Read Archive (SRA) under the following accession numbers.
+
+Normal skin samples (n = 10):
+SRR9033971, SRR9033974, SRR9033976, SRR9033979, SRR9033982,
+SRR9033983, SRR9033986, SRR9033988, SRR9033991, SRR9033993
+
+Melanoma samples (n = 10):
+SRR5494283, SRR5494284, SRR5494285, SRR5494286, SRR5494287,
+SRR5494288, SRR5494289, SRR5494290, SRR5494291, SRR5494292
+
+FASTQ files were downloaded using the SRA Toolkit (prefetch and fasterq-dump) and quantified using Salmon v1.10.3 as described in the accompanying scripts.
